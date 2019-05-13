@@ -1,0 +1,135 @@
+body{
+    background-image: url(1.jpeg);
+    background-size: cover;
+}
+.A{
+    color: white;
+    display:flex;
+   justify-content: center;
+ }
+ .B{
+     color:  white;
+    display:flex;
+   justify-content: center;
+ }
+ .C{
+     color:  white;
+    display:flex;
+   justify-content: center;
+ }
+ .first-img{
+     display: flex;
+     justify-content: center;
+     margin-right: 25%;
+ }
+ .jumbotron{
+     background-color:  rgb(245, 194, 194);
+     color: rgb(14, 12, 12);
+ }
+ .container-1{
+     text-align: center;
+     color: white;
+     list-style-type: none !important;
+     margin: 270px;
+     margin-top: 20px;
+     margin-bottom: 5px;
+     
+ }
+ ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+ }
+ .container-1 >ul> .p1{
+  font-style: italic;
+  font-family: Great Vibes;
+  font-weight: bold;
+ }
+
+ .container-1 >ul> .p2{
+    font-family: Lobster, cursive;
+    font-weight: bold;
+ }
+.container-1 >ul> .p3{
+    font-family: Oleo Script;
+    font-weight: bold;
+}
+.container-1 >ul> .p4{
+    font-family: Lobster;
+    font-weight: bold;
+}
+.FF{
+ color: white;
+ display: flex;
+ justify-content: center;
+ }
+ .container-2{
+     display:flex;
+    /* border: 1px #ccc solid; */
+    padding: 20px;
+    margin: 50px;
+    color: white;
+ }
+   
+    /* img and text */
+    .container-3{
+    display: flex;
+    }
+
+    .container-3 .box-5{
+        padding-left:25em;
+        padding-right:8em;
+        font-family:Great Vibes;
+        color:white;
+
+    }
+    .img-responsive{
+        width: 130%;
+        margin-left:50%;
+    }
+    .container-4{
+     display: flex;
+    }
+    .container-4 .box-6{
+        padding-left:8em;
+        padding-right:25em;
+        font-family:Great Vibes;
+        color:white;
+    }
+    .box-7 .img-responsive{
+        width: 30%;
+        margin-right:50px;
+    }
+    .container-5{
+        display: flex;
+       }
+       .container-5 .box-9{
+        padding-left:25em;
+        padding-right:8em;
+        font-family:Great Vibes;
+        color:white;
+       }
+       .box-8 .img-responsive{
+        width: 130%;
+        margin-left: 50%;
+       }
+       .box-10{
+           color:white;
+           display:flex;
+           font-family: Great Vibes;
+           justify-content: center;
+           margin: 10px;
+
+       }
+       .box-11 .img-responsive{
+           display: flex;
+           justify-content: center;
+           margin-left: 50%;
+           width:50%;
+       }
+       .box-12{
+           background-color:rgb(245, 194, 194);
+           background: hover;
+       }
